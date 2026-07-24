@@ -1,0 +1,6 @@
+{
+  "name": "NeighborBooks",
+  "description": "邻里书屋 - 让阅读回归社区",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
